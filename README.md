@@ -1,4 +1,4 @@
-<h2><b>Grammarly Premium Creator</b></h2>
+<h2><b>Grammarly Premium Account Creator</b></h2>
 1. Buka CMD di laptop/pc kalian<br/>
 2. Ketik => git clone https://github.com/PremiumKita/PremiumKita-Grammarly/<br/>
 3. Lalu ketik => cd PremiumKita-Grammarly</br>
